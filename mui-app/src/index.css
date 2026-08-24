@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  color: #333;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.main-container {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.main-container h2 {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.main-container p {
+  margin-bottom: 20px;
+}
+
+.card-container {
+  max-width: 400px;
+  margin-top: 20px;
+}
+
+button {
+  text-transform: none !important;
+}

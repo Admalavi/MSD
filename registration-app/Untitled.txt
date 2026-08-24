@@ -1,0 +1,17 @@
+
+openfolder
+open command prompt
+type: before -app type your project name
+
+npm create vite@latest registration-app
+
+select :
+Framework → React
+Variant → JavaScript
+Linter → ESLint
+
+
+
+open in vs code
+change sec/app.jsx
+
