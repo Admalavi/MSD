@@ -24,7 +24,7 @@ function About() {
           <Grid item xs={12} md={6}>
             <Box
               component="img"
-              src="/images/cse-lab.jpg"
+              src="/images/faculty/dept.jpg"
               alt="CSE Laboratory"
               sx={{
                 width: "100%",
